@@ -1,0 +1,109 @@
+{
+  "lists": [
+    {
+      "id": 1,
+      "name": "Groceries ",
+      "colorId": 5
+    },
+    {
+      "id": 2,
+      "name": "Frontend",
+      "colorId": 4
+    },
+    {
+      "id": 3,
+      "name": "Movies",
+      "colorId": 3
+    },
+    {
+      "id": 4,
+      "name": "Books",
+      "colorId": 2
+    },
+    {
+      "id": 5,
+      "name": "Personal Though",
+      "colorId": 1
+    }
+  ],
+  "tasks": [
+    {
+      "id": 1,
+      "listId": 2,
+      "text": "Learn JavaScript d",
+      "completed": true
+    },
+    {
+      "id": 2,
+      "listId": 2,
+      "text": "Do simple project fin",
+      "completed": true
+    },
+    {
+      "id": 3,
+      "listId": 2,
+      "text": "ReactJS Hooks (useState, useReducer, useEffect)",
+      "completed": true
+    },
+    {
+      "id": 4,
+      "listId": 2,
+      "text": "Redux (redux-obsrvable, redux-saga)",
+      "completed": false
+    },
+    {
+      "listId": 5,
+      "text": "100push-ups everyday",
+      "completed": false,
+      "id": 13
+    },
+    {
+      "listId": 4,
+      "text": "Books in hardDriver",
+      "completed": false,
+      "id": 14
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "hex": "C9D1D3",
+      "name": "grey"
+    },
+    {
+      "id": 2,
+      "hex": "42B883",
+      "name": "green"
+    },
+    {
+      "id": 3,
+      "hex": "64C4eD",
+      "name": "blue"
+    },
+    {
+      "id": 4,
+      "hex": "ffbbcc",
+      "name": "pink"
+    },
+    {
+      "id": 5,
+      "hex": "b6e6bd",
+      "name": "lime"
+    },
+    {
+      "id": 6,
+      "hex": "c355f5",
+      "name": "purple"
+    },
+    {
+      "id": 7,
+      "hex": "110133",
+      "name": "black"
+    },
+    {
+      "id": 8,
+      "hex": "ff6464",
+      "name": "red"
+    }
+  ]
+}
